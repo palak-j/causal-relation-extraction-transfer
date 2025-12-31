@@ -49,9 +49,9 @@ This work shows that:
 
 ## Contents
 
-- `docs/method.md` — model architectures & labeling scheme  
-- `docs/experiments.md` — embedding, RNN, CRF ablations  
-- `docs/evaluation.md` — F1 vs F1ₚₕᵣₐₛₑ  
-- `docs/transfer_analysis.md` — cross-dataset transfer results  
-- `docs/reproduction.md` — reproducibility protocol  
+- [Model architectures & labeling scheme](docs/method.md)  
+- [Embedding, RNN, CRF ablations](docs/experiments.md)  
+- [F1 vs F1ₚₕᵣₐₛₑ](docs/evaluation.md)  
+- [Cross-dataset transfer results](docs/transfer_analysis.md)  
+- [Reproducibility protocol](docs/reproduction.md)  
 
