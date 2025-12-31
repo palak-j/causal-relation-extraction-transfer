@@ -9,6 +9,8 @@ This repository accompanies the paper:
 The project presents a large-scale empirical analysis of **model architectures, embeddings, and data transfer strategies** for sentence-level causal relation extraction across diverse domains and annotation styles.
 
 ---
+<img width="1124" height="257" alt="image" src="https://github.com/user-attachments/assets/000af721-3c5e-4c62-a470-97acafd41beb" />
+
 
 ## Problem
 
